@@ -1,0 +1,13 @@
+{
+    "name": "dixmod/sum1",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dixmod",
+            "email": "dixmod@gmail.com"
+        }
+    ],
+    "require": {}
+}
